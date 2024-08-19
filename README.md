@@ -1,4 +1,4 @@
-# Skin Disease Classification with Deep Learning
+# Skin Disease Classification with Deep Learning -- Abraham Obianke 
 
 ## Introduction
 
