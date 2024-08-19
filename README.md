@@ -31,14 +31,13 @@ The dataset can be obtained from publicly available skin disease image databases
 
 ### Preprocessing
 
-- **Resizing**: All images are resized to a uniform size (e.g., 224x224 pixels) to match the input requirements of the model.
-- **Normalization**: Pixel values are normalized to a range of [0, 1] or standardized based on the mean and standard deviation of the dataset.
-- **Augmentation**: Techniques such as rotation, flipping, and zooming are applied to increase the diversity of the training set.
+- **Resizing**: All images was resized to a uniform size (e.g., 224x224 pixels) to match the input requirements of the model.
+- **Normalization**: Pixel values was normalized to a range of [0, 1] or standardized based on the mean and standard deviation of the dataset.
+- **Augmentation**: Techniques such as rotation, flipping, and zooming was applied to increase the diversity of the training set.
 
 ## Requirements
 
-The project is implemented in Python using several popular libraries. Ensure you have the following installed:
-
+The project is implemented in Python using several popular libraries such as:
 - Python 3.8+
 - TensorFlow 2.x / PyTorch
 - NumPy
