@@ -44,4 +44,4 @@ This classification project is useful for automating the diagnosis of skin disea
 
 ## Conclusion
 
-Through this project, I successfully built and evaluated three deep learning models for skin disease classification. DenseNet121 outperformed the other models, demonstrating its effectiveness in handling complex image classification tasks. Future work could involve fine-tuning these models further, experimenting with other architectures, or exploring deployment options like Flask for real-world applications.
+Through this project, I successfully built and evaluated three deep learning models for skin disease classification. DenseNet121 outperformed the other models, demonstrating its effectiveness in handling complex image classification tasks.
