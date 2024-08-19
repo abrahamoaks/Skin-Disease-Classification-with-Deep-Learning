@@ -7,6 +7,7 @@ In this project, I aimed to classify skin diseases using various deep learning m
 ## Dataset
 
 The dataset used is the ISIC 2019 dataset, which includes a diverse collection of images depicting different skin diseases. I split the dataset into training and validation sets to train and evaluate the models effectively. Each image was resized to 240x240 pixels and normalized for consistent input to the models.
+*DataSource: https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000/data*
 
 ## Procedures and Approaches
 
